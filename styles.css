@@ -79,7 +79,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #ccc;
-  cursor: not-allowed;
+  cursor: pointer;
   font-weight: bold;
 }
 
